@@ -1,0 +1,9 @@
+# Data: te groot voor GitHub
+*.csv
+
+# Jupyter: automatische back-ups
+.ipynb_checkpoints/
+
+# Python: tijdelijke bestanden
+__pycache__/
+.venv/
